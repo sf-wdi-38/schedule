@@ -1,9 +1,125 @@
 <!-- Due to the fact that comments cannot be nested inside comments, this boilerplate cannot live inside / be hidden inside README.md -->
 
-## Week 12  - <!-- TOPIC -->
+## Week 13: <!-- TOPIC -->
 <table>
   <tr>
-    <td>Apr 10-14</td>
+    <td>July 31-Aug 4</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 12 - Monday Morning 1 -->
+      Drill
+      (tbd)
+    </td>
+    <td> <!-- Week 12 - Tuesday Morning 1 -->
+      Drill
+      (tbd)
+    </td>
+    <td> <!-- Week 12 - Wednesday Morning 1 -->
+      Drill
+      (tbd)
+    </td>
+    <td> <!-- Week 12 - Thursday Morning 1 -->
+      DONE
+    </td>
+    <td> <!-- Week 12 - Friday Morning 1 -->
+      NOTHING
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 12 - Monday Morning 2 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 12 - Tuesday Morning 2 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 12 - Wednesday Morning 2 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 12 - Thursday Morning 2 -->
+      GO HOME
+    </td>
+    <td> <!-- Week 12 - Friday Morning 2 -->
+      CHILL
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 12 - Monday Afternoon 1 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 12 - Tuesday Afternoon 1 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 12 - Wednesday Afternoon 1 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 12 - Thursday Afternoon 1 -->
+      RELAX
+    </td>
+    <td> <!-- Week 12 - Friday Afternoon 1 / Weekend Lab -->
+      RECOVER
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 12 - Monday Afternoon 2 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 12 - Tuesday Afternoon 2 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 12 - Wednesday Afternoon 2 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 12 - Thursday Afternoon 2 -->
+      HANG OUT
+    </td>
+    <td> <!-- Week 12 - Friday Afternoon 2 / Weekend Lab -->
+      CELEBRATE
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HW</strong></td>
+    <td> <!-- Week 12 - Monday Homework -->
+      Reading
+      (tbd)
+    </td>
+    <td> <!-- Week 12 - Tuesday Homework -->
+      Reading
+      (tbd)
+    </td>
+    <td> <!-- Week 12 - Wednesday Homework -->
+    </td>
+    <td> <!-- Week 12 - Thursday Homework -->
+      SLEEP
+    </td>
+    <td> <!-- Week 12 - Friday -->
+      <!-- BLANK -->
+    </td>
+  </tr>
+</table>
+
+
+## Week 12: <!-- TOPIC -->
+<table>
+  <tr>
+    <td>July 24-28</td>
     <th>Monday</th>
     <th>Tuesday</th>
     <th>Wednesday</th>
@@ -94,8 +210,8 @@
       (tbd)
     </td>
     <td> <!-- Week 12 - Thursday Afternoon 2 -->
-      Outcomes
-      (Neda)
+      Topic
+      (tbd)
     </td>
     <td> <!-- Week 12 - Friday Afternoon 2 / Weekend Lab -->
       Weekend Lab
@@ -127,10 +243,10 @@
 </table>
 
 
-## Week 11  - <!-- TOPIC -->
+## Week 11: <!-- TOPIC -->
 <table>
   <tr>
-    <td>Apr 3-7</td>
+    <td>July 17-21</td>
     <th>Monday</th>
     <th>Tuesday</th>
     <th>Wednesday</th>
@@ -221,8 +337,8 @@
       (tbd)
     </td>
     <td> <!-- Week 11 - Thursday Afternoon 2 -->
-      Outcomes
-      (Neda)
+      Topic
+      (tbd)
     </td>
     <td> <!-- Week 11 - Friday Afternoon 2 / Weekend Lab -->
       Weekend Lab
@@ -254,10 +370,10 @@
 </table>
 
 
-## Week 10  - <!-- TOPIC -->
+## Week 10: <!-- TOPIC -->
 <table>
   <tr>
-    <td>Mar 27-31</td>
+    <td>July 10-14</td>
     <th>Monday</th>
     <th>Tuesday</th>
     <th>Wednesday</th>
@@ -348,8 +464,8 @@
       (tbd)
     </td>
     <td> <!-- Week 10 - Thursday Afternoon 2 -->
-      Outcomes
-      (Neda)
+      Topic
+      (tbd)
     </td>
     <td> <!-- Week 10 - Friday Afternoon 2 / Weekend Lab -->
       Weekend Lab
@@ -381,10 +497,10 @@
 </table>
 
 
-## Week 9  - <!-- TOPIC -->
+## Week 9: <!-- TOPIC -->
 <table>
   <tr>
-    <td>Mar 20-24</td>
+    <td>July 3-7</td>
     <th>Monday</th>
     <th>Tuesday</th>
     <th>Wednesday</th>
@@ -394,12 +510,10 @@
   <tr>
     <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 9 - Monday Morning 1 -->
-      Drill
-      (tbd)
+      HOLIDAY
     </td>
     <td> <!-- Week 9 - Tuesday Morning 1 -->
-      Drill
-      (tbd)
+      HOLIDAY
     </td>
     <td> <!-- Week 9 - Wednesday Morning 1 -->
       Drill
@@ -417,12 +531,10 @@
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 9 - Monday Morning 2 -->
-      Topic
-      (tbd)
+      HOLIDAY
     </td>
     <td> <!-- Week 9 - Tuesday Morning 2 -->
-      Topic
-      (tbd)
+      HOLIDAY
     </td>
     <td> <!-- Week 9 - Wednesday Morning 2 -->
       Topic
@@ -440,12 +552,10 @@
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 9 - Monday Afternoon 1 -->
-      Topic
-      (tbd)
+      HOLIDAY
     </td>
     <td> <!-- Week 9 - Tuesday Afternoon 1 -->
-      Topic
-      (tbd)
+      HOLIDAY
     </td>
     <td> <!-- Week 9 - Wednesday Afternoon 1 -->
       Topic
@@ -463,20 +573,18 @@
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 9 - Monday Afternoon 2 -->
-      Topic
-      (tbd)
+      HOLIDAY
     </td>
     <td> <!-- Week 9 - Tuesday Afternoon 2 -->
-      Topic
-      (tbd)
+      HOLIDAY
     </td>
     <td> <!-- Week 9 - Wednesday Afternoon 2 -->
       Topic
       (tbd)
     </td>
     <td> <!-- Week 9 - Thursday Afternoon 2 -->
-      Outcomes
-      (Neda)
+      Topic
+      (tbd)
     </td>
     <td> <!-- Week 9 - Friday Afternoon 2 / Weekend Lab -->
       Weekend Lab
@@ -486,12 +594,10 @@
   <tr>
     <td><strong>HW</strong></td>
     <td> <!-- Week 9 - Monday Homework -->
-      Reading
-      (tbd)
+      HOLIDAY
     </td>
     <td> <!-- Week 9 - Tuesday Homework -->
-      Reading
-      (tbd)
+      HOLIDAY
     </td>
     <td> <!-- Week 9 - Wednesday Homework -->
       Reading
@@ -508,10 +614,10 @@
 </table>
 
 
-## Week 8  - <!-- TOPIC -->
+## Week 8: <!-- TOPIC -->
 <table>
   <tr>
-    <td>Mar 13-17</td>
+    <td>June 26-30</td>
     <th>Monday</th>
     <th>Tuesday</th>
     <th>Wednesday</th>
@@ -602,8 +708,8 @@
       (tbd)
     </td>
     <td> <!-- Week 8 - Thursday Afternoon 2 -->
-      Outcomes
-      (Neda)
+      Topic
+      (tbd)
     </td>
     <td> <!-- Week 8 - Friday Afternoon 2 / Weekend Lab -->
       Weekend Lab
@@ -635,10 +741,10 @@
 </table>
 
 
-## Week 7  - <!-- TOPIC -->
+## Week 7: <!-- TOPIC -->
 <table>
   <tr>
-    <td>Mar 6-10</td>
+    <td>June 19-23</td>
     <th>Monday</th>
     <th>Tuesday</th>
     <th>Wednesday</th>
@@ -729,8 +835,8 @@
       (tbd)
     </td>
     <td> <!-- Week 7 - Thursday Afternoon 2 -->
-      Outcomes
-      (Neda)
+      Topic
+      (tbd)
     </td>
     <td> <!-- Week 7 - Friday Afternoon 2 / Weekend Lab -->
       Weekend Lab
@@ -762,10 +868,10 @@
 </table>
 
 
-## Week 6  - <!-- TOPIC -->
+## Week 6: <!-- TOPIC -->
 <table>
   <tr>
-    <td>Feb 27 - Mar 3</td>
+    <td>June 12-16</td>
     <th>Monday</th>
     <th>Tuesday</th>
     <th>Wednesday</th>
@@ -856,8 +962,8 @@
       (tbd)
     </td>
     <td> <!-- Week 6 - Thursday Afternoon 2 -->
-      Outcomes
-      (Neda)
+      Topic
+      (tbd)
     </td>
     <td> <!-- Week 6 - Friday Afternoon 2 / Weekend Lab -->
       Weekend Lab
@@ -889,10 +995,10 @@
 </table>
 
 
-## Week 5  - <!-- TOPIC -->
+## Week 5: <!-- TOPIC -->
 <table>
   <tr>
-    <td>Feb 20 - 24</td>
+    <td>June 5-9</td>
     <th>Monday</th>
     <th>Tuesday</th>
     <th>Wednesday</th>
@@ -983,8 +1089,8 @@
       (tbd)
     </td>
     <td> <!-- Week 5 - Thursday Afternoon 2 -->
-      Outcomes
-      (Neda)
+      Topic
+      (tbd)
     </td>
     <td> <!-- Week 5 - Friday Afternoon 2 / Weekend Lab -->
       Weekend Lab
@@ -1016,10 +1122,10 @@
 </table>
 
 
-## Week 4  - <!-- TOPIC -->
+## Week 4: <!-- TOPIC -->
 <table>
   <tr>
-    <td>Feb 13-17</td>
+    <td>May 29-June 2</td>
     <th>Monday</th>
     <th>Tuesday</th>
     <th>Wednesday</th>
@@ -1029,8 +1135,7 @@
   <tr>
     <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 4 - Monday Morning 1 -->
-      Drill
-      (tbd)
+      HOLIDAY
     </td>
     <td> <!-- Week 4 - Tuesday Morning 1 -->
       Drill
@@ -1052,8 +1157,7 @@
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 4 - Monday Morning 2 -->
-      Topic
-      (tbd)
+      HOLIDAY
     </td>
     <td> <!-- Week 4 - Tuesday Morning 2 -->
       Topic
@@ -1075,8 +1179,7 @@
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 4 - Monday Afternoon 1 -->
-      Topic
-      (tbd)
+      HOLIDAY
     </td>
     <td> <!-- Week 4 - Tuesday Afternoon 1 -->
       Topic
@@ -1098,8 +1201,7 @@
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 4 - Monday Afternoon 2 -->
-      Topic
-      (tbd)
+      HOLIDAY
     </td>
     <td> <!-- Week 4 - Tuesday Afternoon 2 -->
       Topic
@@ -1110,8 +1212,8 @@
       (tbd)
     </td>
     <td> <!-- Week 4 - Thursday Afternoon 2 -->
-      Outcomes
-      (Neda)
+      Topic
+      (tbd)
     </td>
     <td> <!-- Week 4 - Friday Afternoon 2 / Weekend Lab -->
       Weekend Lab
@@ -1121,8 +1223,7 @@
   <tr>
     <td><strong>HW</strong></td>
     <td> <!-- Week 4 - Monday Homework -->
-      Reading
-      (tbd)
+      HOLIDAY
     </td>
     <td> <!-- Week 4 - Tuesday Homework -->
       Reading
@@ -1143,10 +1244,10 @@
 </table>
 
 
-## Week 3  - <!-- TOPIC -->
+## Week 3: <!-- TOPIC -->
 <table>
   <tr>
-    <td>Feb 6-10</td>
+    <td>May 22-26</td>
     <th>Monday</th>
     <th>Tuesday</th>
     <th>Wednesday</th>
@@ -1237,8 +1338,8 @@
       (tbd)
     </td>
     <td> <!-- Week 3 - Thursday Afternoon 2 -->
-      Outcomes
-      (Neda)
+      Topic
+      (tbd)
     </td>
     <td> <!-- Week 3 - Friday Afternoon 2 / Weekend Lab -->
       Weekend Lab
@@ -1270,10 +1371,10 @@
 </table>
 
 
-## Week 2  - <!-- TOPIC -->
+## Week 2: <!-- TOPIC -->
 <table>
   <tr>
-    <td>Jan 30 - Feb 3</td>
+    <td>May 15-19</td>
     <th>Monday</th>
     <th>Tuesday</th>
     <th>Wednesday</th>
@@ -1364,8 +1465,8 @@
       (tbd)
     </td>
     <td> <!-- Week 2 - Thursday Afternoon 2 -->
-      Outcomes
-      (Neda)
+      Topic
+      (tbd)
     </td>
     <td> <!-- Week 2 - Friday Afternoon 2 / Weekend Lab -->
       Weekend Lab
@@ -1397,10 +1498,10 @@
 </table>
 
 
-## Week 1  - <!-- TOPIC -->
+## Week 1: <!-- TOPIC -->
 <table>
   <tr>
-    <td>Jan 23-27</td>
+    <td>May 8-12</td>
     <th>Monday</th>
     <th>Tuesday</th>
     <th>Wednesday</th>
@@ -1491,8 +1592,8 @@
       (tbd)
     </td>
     <td> <!-- Week 1 - Thursday Afternoon 2 -->
-      Outcomes
-      (Neda)
+      Topic
+      (tbd)
     </td>
     <td> <!-- Week 1 - Friday Afternoon 2 / Weekend Lab -->
       Weekend Lab
