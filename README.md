@@ -11,8 +11,7 @@
   <tr>
     <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 1 - Monday Morning 1 -->
-      Drill
-      (tbd)
+      Orientation & Icebreaker
     </td>
     <td> <!-- Week 1 - Tuesday Morning 1 -->
       Drill
@@ -34,8 +33,7 @@
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 1 - Monday Morning 2 -->
-      Topic
-      (tbd)
+      Classroom Culture
     </td>
     <td> <!-- Week 1 - Tuesday Morning 2 -->
       Topic
@@ -57,8 +55,8 @@
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 1 - Monday Afternoon 1 -->
-      Topic
-      (tbd)
+      HTML/CSS Review
+      (MF)
     </td>
     <td> <!-- Week 1 - Tuesday Afternoon 1 -->
       Topic
@@ -80,8 +78,8 @@
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 1 - Monday Afternoon 2 -->
-      Topic
-      (tbd)
+      Portfolio P1
+      (MF)
     </td>
     <td> <!-- Week 1 - Tuesday Afternoon 2 -->
       Topic
@@ -103,7 +101,7 @@
   <tr>
     <td><strong>HW</strong></td>
     <td> <!-- Week 1 - Monday Homework -->
-      Reading
+      Fundamentals Check-In
       (tbd)
     </td>
     <td> <!-- Week 1 - Tuesday Homework -->
