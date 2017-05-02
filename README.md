@@ -129,7 +129,7 @@
   <tr>
     <th>Time</th>
     <th>Monday, Tuesday, Friday</th>
-    <th>Wednesday</th>
+    <th>Wednesday (after first 2 weeks)</th>
     <th>Thursday</th>
   </tr>
   <tr>
