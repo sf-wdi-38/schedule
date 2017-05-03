@@ -102,7 +102,6 @@
     <td><strong>HW</strong></td>
     <td> <!-- Week 1 - Monday Homework -->
       Fundamentals Check-In
-      (tbd)
     </td>
     <td> <!-- Week 1 - Tuesday Homework -->
       Reading
