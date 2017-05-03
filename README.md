@@ -55,7 +55,7 @@
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 1 - Monday Afternoon 1 -->
-      HTML/CSS Review
+      <a href="https://github.com/SF-WDI-LABS/html-css-review">HTML/CSS Review</a>
       (MF)
     </td>
     <td> <!-- Week 1 - Tuesday Afternoon 1 -->
@@ -78,7 +78,7 @@
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 1 - Monday Afternoon 2 -->
-      Portfolio P1
+      <a href="https://github.com/sf-wdi-38/personal-portfolio">Portfolio P1</a>
       (MF)
     </td>
     <td> <!-- Week 1 - Tuesday Afternoon 2 -->
