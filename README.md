@@ -14,16 +14,16 @@
       Orientation & Icebreaker
     </td>
     <td> <!-- Week 1 - Tuesday Morning 1 -->
-      Drill
-      (tbd)
+      Kyrel
+      (MF)
     </td>
     <td> <!-- Week 1 - Wednesday Morning 1 -->
-      Drill
-      (tbd)
+      Kyrel
+      (MF)
     </td>
     <td> <!-- Week 1 - Thursday Morning 1 -->
-      Drill
-      (tbd)
+      Kyrel
+      (MF)
     </td>
     <td> <!-- Week 1 - Friday Morning 1 -->
       Review
@@ -36,20 +36,20 @@
       Classroom Culture
     </td>
     <td> <!-- Week 1 - Tuesday Morning 2 -->
-      Topic
-      (tbd)
+      Git review
+      (NA)
     </td>
     <td> <!-- Week 1 - Wednesday Morning 2 -->
-      Topic
-      (tbd)
+      JS Objects
+      (MF)
     </td>
     <td> <!-- Week 1 - Thursday Morning 2 -->
-      Topic
-      (tbd)
+      CSS & $electors
+      (NA)
     </td>
     <td> <!-- Week 1 - Friday Morning 2 -->
-      Review
-      (team)
+      Bootstrap
+      (MF)
     </td>
   </tr>
   <tr>
@@ -59,20 +59,20 @@
       (MF)
     </td>
     <td> <!-- Week 1 - Tuesday Afternoon 1 -->
-      Topic
-      (tbd)
+      JS Types & Variables
+      (MF)
     </td>
     <td> <!-- Week 1 - Wednesday Afternoon 1 -->
-      Topic
-      (tbd)
+      Developer Tools & Debugging
+      (NA)
     </td>
     <td> <!-- Week 1 - Thursday Afternoon 1 -->
-      Topic
-      (tbd)
+      CSS, $electors, and Mr. Fox Lab
+      (NA)
     </td>
     <td> <!-- Week 1 - Friday Afternoon 1 / Weekend Lab -->
-      Weekend Lab
-      (tbd)
+      Intro to Functions
+      (MF)
     </td>
   </tr>
   <tr>
@@ -82,20 +82,20 @@
       (MF)
     </td>
     <td> <!-- Week 1 - Tuesday Afternoon 2 -->
-      Topic
-      (tbd)
+      JS Control Flow
+      (MF)
     </td>
     <td> <!-- Week 1 - Wednesday Afternoon 2 -->
-      Topic
-      (tbd)
+      JS Basics Problem Set
+      (NA)
     </td>
     <td> <!-- Week 1 - Thursday Afternoon 2 -->
-      Topic
-      (tbd)
+      Outcomes
+      (Neda)
     </td>
     <td> <!-- Week 1 - Friday Afternoon 2 / Weekend Lab -->
-      Weekend Lab
-      (tbd)
+      Portfolio P3
+      (MF)
     </td>
   </tr>
   <tr>
@@ -104,19 +104,16 @@
       Fundamentals Check-In
     </td>
     <td> <!-- Week 1 - Tuesday Homework -->
-      Reading
-      (tbd)
+      Control Flow Problems
     </td>
     <td> <!-- Week 1 - Wednesday Homework -->
-      Reading
-      (tbd)
+      Finish JS basics problem set
     </td>
     <td> <!-- Week 1 - Thursday Homework -->
-      Reading
-      (tbd)
+      Portfolio P2
     </td>
     <td> <!-- Week 1 - Friday -->
-      <!-- BLANK -->
+      Portfolio P3
     </td>
   </tr>
 </table>
