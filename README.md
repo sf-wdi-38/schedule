@@ -56,7 +56,7 @@
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 1 - Monday Afternoon 1 -->
       <a href="https://github.com/SF-WDI-LABS/html-css-review">HTML/CSS Review</a>
-      (MF)
+      (NA)
     </td>
     <td> <!-- Week 1 - Tuesday Afternoon 1 -->
       JS Types & Variables
@@ -79,7 +79,7 @@
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 1 - Monday Afternoon 2 -->
       <a href="https://github.com/sf-wdi-38/personal-portfolio">Portfolio P1</a>
-      (MF)
+      (NA)
     </td>
     <td> <!-- Week 1 - Tuesday Afternoon 2 -->
       JS Control Flow
