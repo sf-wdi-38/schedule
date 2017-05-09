@@ -59,7 +59,7 @@
       (NA)
     </td>
     <td> <!-- Week 1 - Tuesday Afternoon 1 -->
-      <a href="https://github.com/sf-wdi-35/js-data-types">JS Types & Variables</a>
+      <a href="https://github.com/sf-wdi-labs/js-data-types">JS Types & Variables</a>
       (MF)
     </td>
     <td> <!-- Week 1 - Wednesday Afternoon 1 -->
