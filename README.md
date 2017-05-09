@@ -36,7 +36,7 @@
       Classroom Culture
     </td>
     <td> <!-- Week 1 - Tuesday Morning 2 -->
-      Git review
+      <a href="https://github.com/SF-WDI-LABS/git-github">Git review</a>
       (NA)
     </td>
     <td> <!-- Week 1 - Wednesday Morning 2 -->
