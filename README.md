@@ -40,7 +40,7 @@
       (NA)
     </td>
     <td> <!-- Week 1 - Wednesday Morning 2 -->
-      JS Objects
+      More on <a href="https://github.com/SF-WDI-LABS/js-objects">JS Objects</a>
       (MF)
     </td>
     <td> <!-- Week 1 - Thursday Morning 2 -->
