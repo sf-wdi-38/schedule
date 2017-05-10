@@ -63,7 +63,7 @@
       (MF)
     </td>
     <td> <!-- Week 1 - Wednesday Afternoon 1 -->
-      Developer Tools & Debugging
+      <a href="https://github.com/SF-WDI-LABS/dev-tools">Developer Tools & Debugging</a>
       (NA)
     </td>
     <td> <!-- Week 1 - Thursday Afternoon 1 -->
@@ -86,7 +86,7 @@
       (MF)
     </td>
     <td> <!-- Week 1 - Wednesday Afternoon 2 -->
-      JS Basics Problem Set
+      <a href="https://github.com/SF-WDI-LABS/problem-set-js-basics">JS Basics Problem Set</a>
       (NA)
     </td>
     <td> <!-- Week 1 - Thursday Afternoon 2 -->
