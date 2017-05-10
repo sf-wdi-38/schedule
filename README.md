@@ -18,7 +18,7 @@
       (MF)
     </td>
     <td> <!-- Week 1 - Wednesday Morning 1 -->
-      Kyrel
+      Continuing Control Flow and <a href="https://github.com/SF-WDI-LABS/kyrel">Kyrel day 2</a>
       (MF)
     </td>
     <td> <!-- Week 1 - Thursday Morning 1 -->
