@@ -107,7 +107,7 @@
       <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
     </td>
     <td> <!-- Week 1 - Wednesday Homework -->
-      Finish JS basics problem set
+      JS basics problem set (Due Friday!)
     </td>
     <td> <!-- Week 1 - Thursday Homework -->
       Portfolio P2
