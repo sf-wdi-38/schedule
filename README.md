@@ -71,7 +71,7 @@
       (NA)
     </td>
     <td> <!-- Week 1 - Friday Afternoon 1 / Weekend Lab -->
-      Intro to Functions
+      <a href="https://github.com/SF-WDI-LABS/js-functions">Intro to Functions</a>
       (MF)
     </td>
   </tr>
@@ -94,7 +94,7 @@
       (Neda)
     </td>
     <td> <!-- Week 1 - Friday Afternoon 2 / Weekend Lab -->
-      Portfolio P3
+      <a href="https://github.com/sf-wdi-38/personal-portfolio">Portfolio P3</a>
       (MF)
     </td>
   </tr>
@@ -107,13 +107,13 @@
       <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
     </td>
     <td> <!-- Week 1 - Wednesday Homework -->
-      Finish JS basics problem set
+      <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
     </td>
     <td> <!-- Week 1 - Thursday Homework -->
-      Portfolio P2
+      <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
     </td>
     <td> <!-- Week 1 - Friday -->
-      Portfolio P3
+      <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
     </td>
   </tr>
 </table>
