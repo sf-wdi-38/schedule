@@ -66,7 +66,7 @@
       (NA)
     </td>
     <td> <!-- Week 1 - Thursday Afternoon 1 -->
-      CSS, $electors, and Mr. Fox Lab
+      <a href="https://github.com/SF-WDI-LABS/dom-manipulation">DOM Manipulation</a> & <a href="https://github.com/SF-WDI-LABS/jquery-playground-lab">Playground</a>
       (NA)
     </td>
     <td> <!-- Week 1 - Friday Afternoon 1 / Weekend Lab -->
