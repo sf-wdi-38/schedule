@@ -26,8 +26,7 @@
       (MF)
     </td>
     <td> <!-- Week 1 - Friday Morning 1 -->
-      Review
-      (team)
+      <a href="https://github.com/SF-WDI-LABS/json-to-html-with-mr-fox">Mr. Fox Lab</a> (NA)
     </td>
   </tr>
   <tr>
