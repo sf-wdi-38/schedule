@@ -48,7 +48,7 @@
       (NA)
     </td>
     <td> <!-- Week 1 - Friday Morning 2 -->
-      Bootstrap
+      <a href="https://github.com/SF-WDI-LABS/bootstrap">Bootstrap</a>
       (MF)
     </td>
   </tr>
