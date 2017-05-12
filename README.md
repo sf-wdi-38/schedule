@@ -21,7 +21,7 @@
     </td>
     <td> <!-- Week 2 - Thursday Morning 1 -->
       AJAX & APIs
-      (tbd)
+      (MF)
     </td>
     <td> <!-- Week 2 - Friday Morning 1 -->
       GeoQuakes Review
@@ -44,7 +44,7 @@
     </td>
     <td> <!-- Week 2 - Thursday Morning 2 -->
       Giphy Lab
-      (tbd)
+      (MF)
     </td>
     <td> <!-- Week 2 - Friday Morning 2 -->
       Review
@@ -67,7 +67,7 @@
     </td>
     <td> <!-- Week 2 - Thursday Afternoon 1 -->
       GeoQuakes
-      (tbd)
+      (NA)
     </td>
     <td> <!-- Week 2 - Friday Afternoon 1 / Weekend Lab -->
       Node
