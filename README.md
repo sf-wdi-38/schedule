@@ -15,7 +15,6 @@
     </td>
     <td> <!-- Week 2 - Tuesday Morning 1 -->
       HTML Forms (MF)
-      (tbd)
     </td>
     <td> <!-- Week 2 - Wednesday Morning 1 -->
       Racing Game (MF)
