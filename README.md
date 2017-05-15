@@ -31,7 +31,7 @@
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 2 - Monday Morning 2 -->
-      Functions, Revisited
+      <a href="https://github.com/SF-WDI-LABS/js-functions">Functions, Revisited</a> and <a href="https://github.com/SF-WDI-LABS/js-objects">Objects</a>
       (MF)
     </td>
     <td> <!-- Week 2 - Tuesday Morning 2 -->
