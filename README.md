@@ -54,7 +54,7 @@
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 2 - Monday Afternoon 1 -->
-      Iterators
+      <a href="https://github.com/SF-WDI-LABS/iterator-methods">Iterators</a>
       (NA)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon 1 -->
@@ -77,7 +77,7 @@
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 2 - Monday Afternoon 2 -->
-      Iterators lab
+      <a href="https://github.com/SF-WDI-LABS/laundry-lab">Iterators Laundry lab</a>
       (NA)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon 2 -->
