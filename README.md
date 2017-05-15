@@ -14,7 +14,7 @@
       Portfolio Code Review (MF)
     </td>
     <td> <!-- Week 2 - Tuesday Morning 1 -->
-      <a href="https://github.com/SF-WDI-LABS/html-forms>HTML Forms</a> (MF)
+      <a href="https://github.com/SF-WDI-LABS/html-forms">HTML Forms</a> (MF)
     </td>
     <td> <!-- Week 2 - Wednesday Morning 1 -->
       Racing Game (MF)
