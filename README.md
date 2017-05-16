@@ -58,7 +58,7 @@
       (NA)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon 1 -->
-      DOM Events
+      <a href="https://github.com/SF-WDI-LABS/dom-events-jquery">DOM Events</a>
       (NA)
     </td>
     <td> <!-- Week 2 - Wednesday Afternoon 1 -->
@@ -81,7 +81,7 @@
       (NA)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon 2 -->
-      Events lab
+      <a href="https://github.com/SF-WDI-LABS/jquery-events-lab">Events lab</a>
       (NA)
     </td>
     <td> <!-- Week 2 - Wednesday Afternoon 2 -->
