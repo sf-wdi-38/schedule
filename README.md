@@ -39,7 +39,7 @@
       (MF)
     </td>
     <td> <!-- Week 2 - Wednesday Morning 2 -->
-      Racing game
+      Finish Tic Tac Toe and start <a href="https://github.com/sf-wdi-38/project-00">Racing Game</a>
       (MF)
     </td>
     <td> <!-- Week 2 - Thursday Morning 2 -->
@@ -62,7 +62,7 @@
       (NA)
     </td>
     <td> <!-- Week 2 - Wednesday Afternoon 1 -->
-      Racing Game
+      <a href="https://github.com/sf-wdi-38/project-00">Racing Game</a>
       (MF)
     </td>
     <td> <!-- Week 2 - Thursday Afternoon 1 -->
@@ -85,7 +85,7 @@
       (NA)
     </td>
     <td> <!-- Week 2 - Wednesday Afternoon 2 -->
-      Racing game
+      <a href="https://github.com/sf-wdi-38/project-00">Racing Game</a>
       (MF)
     </td>
     <td> <!-- Week 2 - Thursday Afternoon 2 -->
