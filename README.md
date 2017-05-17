@@ -17,7 +17,7 @@
       <a href="https://github.com/SF-WDI-LABS/html-forms">HTML Forms</a> (MF)
     </td>
     <td> <!-- Week 2 - Wednesday Morning 1 -->
-      Racing Game (MF)
+      <a href="https://github.com/SF-WDI-LABS/tic-tac-toe">Tic Tac Toe</a> (MF)
     </td>
     <td> <!-- Week 2 - Thursday Morning 1 -->
       AJAX & APIs
