@@ -43,7 +43,7 @@
       (MF)
     </td>
     <td> <!-- Week 2 - Thursday Morning 2 -->
-      <a href="">Giphy Lab</a> and <a href="https://github.com/SF-WDI-LABS/ajax-4x-epic-combo-challenge"> AJAX Challenges</a>
+      <a href="https://github.com/SF-WDI-LABS/giffaw">Giphy Lab</a> and <a href="https://github.com/SF-WDI-LABS/ajax-4x-epic-combo-challenge"> AJAX Challenges</a>
       (MF)
     </td>
     <td> <!-- Week 2 - Friday Morning 2 -->
