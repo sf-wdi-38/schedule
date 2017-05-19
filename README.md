@@ -70,7 +70,8 @@
       (NA)
     </td>
     <td> <!-- Week 2 - Friday Afternoon 1 / Weekend Lab -->
-      Node
+      Reference Types &
+      <a href="https://github.com/SF-WDI-LABS/build-your-own-node-module">Node</a>
       (NA)
     </td>
   </tr>
