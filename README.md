@@ -1,3 +1,125 @@
+## Week 3: JavaScript from Front to Back
+<table>
+  <tr>
+    <td>May 22-26</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 3 - Monday Morning 1 -->
+      Code Review
+      (MF)
+    </td>
+    <td> <!-- Week 3 - Tuesday Morning 1 -->
+      Drill
+      (tbd)
+    </td>
+    <td> <!-- Week 3 - Wednesday Morning 1 -->
+      Drill
+      (tbd)
+    </td>
+    <td> <!-- Week 3 - Thursday Morning 1 -->
+      Drill
+      (tbd)
+    </td>
+    <td> <!-- Week 3 - Friday Morning 1 -->
+      Review
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 3 - Monday Morning 2 -->
+      <a href="">OOP in JavaScript</a>
+      (MF)
+    </td>
+    <td> <!-- Week 3 - Tuesday Morning 2 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 3 - Wednesday Morning 2 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 3 - Thursday Morning 2 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 3 - Friday Morning 2 -->
+      Review
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 3 - Monday Afternoon 1 -->
+      Finish OOP lesson & start game lab
+      (MF/NA)
+    </td>
+    <td> <!-- Week 3 - Tuesday Afternoon 1 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 3 - Wednesday Afternoon 1 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 3 - Thursday Afternoon 1 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 3 - Friday Afternoon 1 / Weekend Lab -->
+      Weekend Lab
+      (tbd)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 3 - Monday Afternoon 2 -->
+      Game lab
+      (NA)
+    </td>
+    <td> <!-- Week 3 - Tuesday Afternoon 2 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 3 - Wednesday Afternoon 2 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 3 - Thursday Afternoon 2 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 3 - Friday Afternoon 2 / Weekend Lab -->
+      Weekend Lab
+      (tbd)
+    </td>
+  </tr>
+  <tr>
+  <td><strong>HW</strong></td>
+  <td> <!-- Week 1 - Tuesday Homework -->
+    <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
+  </td>
+  <td> <!-- Week 1 - Tuesday Homework -->
+    <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
+  </td>
+  <td> <!-- Week 1 - Wednesday Homework -->
+    <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
+  </td>
+  <td> <!-- Week 1 - Thursday Homework -->
+    <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
+  </td>
+  <td> <!-- Week 1 - Friday -->
+    <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
+  </td>
+  </tr>
+</table>
+
 ## Week 2: Functions, Callbacks, and AJAX
 <table>
   <tr>
