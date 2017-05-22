@@ -27,7 +27,6 @@
     <td> <!-- Week 3 - Thursday Morning 1 -->
       More Mongo
       (NA)
-
     </td>
     <td> <!-- Week 3 - Friday Morning 1 -->
       Review
