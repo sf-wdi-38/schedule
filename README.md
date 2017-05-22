@@ -1,4 +1,6 @@
-## Week 3: JavaScript from Front to Back
+
+## Week 3: Server-side Javascript
+
 <table>
   <tr>
     <td>May 22-26</td>
@@ -15,16 +17,17 @@
       (MF)
     </td>
     <td> <!-- Week 3 - Tuesday Morning 1 -->
-      Drill
-      (tbd)
+      Express Routing
+      (MF)
     </td>
     <td> <!-- Week 3 - Wednesday Morning 1 -->
-      Drill
-      (tbd)
+      Mongo
+      (NA)
     </td>
     <td> <!-- Week 3 - Thursday Morning 1 -->
-      Drill
-      (tbd)
+      More Mongo
+      (NA)
+
     </td>
     <td> <!-- Week 3 - Friday Morning 1 -->
       Review
@@ -38,16 +41,16 @@
       (MF)
     </td>
     <td> <!-- Week 3 - Tuesday Morning 2 -->
-      Topic
-      (tbd)
+      REST
+      (MF)
     </td>
     <td> <!-- Week 3 - Wednesday Morning 2 -->
-      Topic
-      (tbd)
+      Mongo
+      (NA)
     </td>
     <td> <!-- Week 3 - Thursday Morning 2 -->
-      Topic
-      (tbd)
+      Mongo Relationships
+      (NA)
     </td>
     <td> <!-- Week 3 - Friday Morning 2 -->
       Review
@@ -57,66 +60,62 @@
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 3 - Monday Afternoon 1 -->
-      Finish OOP lesson & start game lab
-      (MF/NA)
+      Lab: TDD/OO Game
+      (MF)
     </td>
     <td> <!-- Week 3 - Tuesday Afternoon 1 -->
-      Topic
-      (tbd)
+      Lab: ToDo API
+      (NA)
     </td>
     <td> <!-- Week 3 - Wednesday Afternoon 1 -->
-      Topic
-      (tbd)
+      Mongo Lab
     </td>
     <td> <!-- Week 3 - Thursday Afternoon 1 -->
-      Topic
-      (tbd)
+      Book App
+      (MF)
     </td>
     <td> <!-- Week 3 - Friday Afternoon 1 / Weekend Lab -->
-      Weekend Lab
-      (tbd)
+      Personal API Intro
+      (MF)
     </td>
   </tr>
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 3 - Monday Afternoon 2 -->
-      Game lab
-      (NA)
+      Lab: TDD/OO Game
+      (MF)
     </td>
     <td> <!-- Week 3 - Tuesday Afternoon 2 -->
-      Topic
-      (tbd)
+      Lab: ToDo API
+      (NA)
     </td>
     <td> <!-- Week 3 - Wednesday Afternoon 2 -->
-      Topic
-      (tbd)
+      Mongo Lab
     </td>
     <td> <!-- Week 3 - Thursday Afternoon 2 -->
-      Topic
-      (tbd)
+      Outcomes
     </td>
     <td> <!-- Week 3 - Friday Afternoon 2 / Weekend Lab -->
-      Weekend Lab
-      (tbd)
+      Personal API
     </td>
   </tr>
   <tr>
-  <td><strong>HW</strong></td>
-  <td> <!-- Week 1 - Tuesday Homework -->
+    <td><strong>HW</strong></td>
+    <td> <!-- Week 3 - Monday Homework -->
     <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
-  </td>
-  <td> <!-- Week 1 - Tuesday Homework -->
+    </td>
+    <td> <!-- Week 3 - Tuesday Homework -->
     <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
-  </td>
-  <td> <!-- Week 1 - Wednesday Homework -->
+    </td>
+    <td> <!-- Week 3 - Wednesday Homework -->
     <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
-  </td>
-  <td> <!-- Week 1 - Thursday Homework -->
+    </td>
+    <td> <!-- Week 3 - Thursday Homework -->
     <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
-  </td>
-  <td> <!-- Week 1 - Friday -->
+    </td>
+    <td> <!-- Week 3 - Friday -->
     <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
-  </td>
+    </td>
   </tr>
 </table>
 
