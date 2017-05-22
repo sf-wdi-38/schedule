@@ -1,4 +1,6 @@
+
 ## Week 3: Server-side Javascript
+
 <table>
   <tr>
     <td>May 22-26</td>
@@ -25,6 +27,7 @@
     <td> <!-- Week 3 - Thursday Morning 1 -->
       More Mongo
       (NA)
+
     </td>
     <td> <!-- Week 3 - Friday Morning 1 -->
       Review
@@ -34,7 +37,7 @@
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 3 - Monday Morning 2 -->
-      OO & Constructors
+      <a href="https://github.com/sf-wdi-38/js-oop-flower-power">OOP in JavaScript</a>
       (MF)
     </td>
     <td> <!-- Week 3 - Tuesday Morning 2 -->
@@ -99,19 +102,19 @@
   <tr>
     <td><strong>HW</strong></td>
     <td> <!-- Week 3 - Monday Homework -->
-      <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a
+    <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
     </td>
     <td> <!-- Week 3 - Tuesday Homework -->
-      <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a
+    <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
     </td>
     <td> <!-- Week 3 - Wednesday Homework -->
-      <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a
+    <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
     </td>
     <td> <!-- Week 3 - Thursday Homework -->
-      <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a
+    <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
     </td>
     <td> <!-- Week 3 - Friday -->
-      <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a
+    <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
     </td>
   </tr>
 </table>
