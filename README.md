@@ -59,8 +59,8 @@
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 3 - Monday Afternoon 1 -->
-      Lab: TDD/OO Game
-      (MF)
+      <a href="https://github.com/SF-WDI-LABS/node-oo-racing-game">OO Review in Node</a>
+      (NA)
     </td>
     <td> <!-- Week 3 - Tuesday Afternoon 1 -->
       Lab: ToDo API
@@ -81,8 +81,8 @@
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 3 - Monday Afternoon 2 -->
-      Lab: TDD/OO Game
-      (MF)
+      <a href="https://github.com/SF-WDI-LABS/node-oo-racing-game">OO Game</a>
+      (NA)
     </td>
     <td> <!-- Week 3 - Tuesday Afternoon 2 -->
       Lab: ToDo API
