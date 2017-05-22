@@ -17,7 +17,7 @@
       (MF)
     </td>
     <td> <!-- Week 3 - Tuesday Morning 1 -->
-      Express Routing
+      <a href="https://github.com/SF-WDI-LABS/express">Express Routing</a> with <a href="https://github.com/SF-WDI-LABS/express-intro">Lab</a>
       (MF)
     </td>
     <td> <!-- Week 3 - Wednesday Morning 1 -->
@@ -40,7 +40,7 @@
       (MF)
     </td>
     <td> <!-- Week 3 - Tuesday Morning 2 -->
-      REST
+      REST and <a href="https://github.com/SF-WDI-LABS/express-dynamic-routes">Dynamic Express Routing</a>
       (MF)
     </td>
     <td> <!-- Week 3 - Wednesday Morning 2 -->
