@@ -1,4 +1,4 @@
-## Week 3: <!-- TOPIC -->
+## Week 3: Server-side Javascript
 <table>
   <tr>
     <td>May 22-26</td>
