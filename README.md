@@ -63,7 +63,7 @@
       (NA)
     </td>
     <td> <!-- Week 3 - Tuesday Afternoon 1 -->
-      Lab: ToDo API
+      <a href="https://github.com/SF-WDI-LABS/test-driven-todo-api">Test Driven ToDo Lab</a>
       (NA)
     </td>
     <td> <!-- Week 3 - Wednesday Afternoon 1 -->
@@ -85,7 +85,7 @@
       (NA)
     </td>
     <td> <!-- Week 3 - Tuesday Afternoon 2 -->
-      Lab: ToDo API
+      <a href="https://github.com/SF-WDI-LABS/test-driven-todo-api">Test Driven ToDo Lab</a>
       (NA)
     </td>
     <td> <!-- Week 3 - Wednesday Afternoon 2 -->
