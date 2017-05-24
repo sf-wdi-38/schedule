@@ -66,8 +66,8 @@
       <a href="https://github.com/SF-WDI-LABS/test-driven-todo-api">Test Driven ToDo Lab</a>
       (NA)
     </td>
-    <td> <!-- Week 3 - Wednesday Afternoon 1 -->
-      <a href="https://github.com/SF-WDI-LABS/mongoose-books-app">Mongoose Book App</a> Sprint 1
+    <td> <!-- Week 3 - Wednesday Homework -->
+    <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
     </td>
     <td> <!-- Week 3 - Thursday Afternoon 1 -->
       Book App
@@ -88,8 +88,8 @@
       <a href="https://github.com/SF-WDI-LABS/test-driven-todo-api">Test Driven ToDo Lab</a>
       (NA)
     </td>
-    <td> <!-- Week 3 - Wednesday Afternoon 2 -->
-      Mongo Lab
+    <td> <!-- Week 3 - Wednesday Homework -->
+    <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
     </td>
     <td> <!-- Week 3 - Thursday Afternoon 2 -->
       Outcomes
