@@ -44,7 +44,7 @@
       (MF)
     </td>
     <td> <!-- Week 3 - Wednesday Morning 2 -->
-      Mongo
+      <a href="https://github.com/SF-WDI-LABS/mongoose">Mongo & Mongoose</a>
       (NA)
     </td>
     <td> <!-- Week 3 - Thursday Morning 2 -->
@@ -67,7 +67,7 @@
       (NA)
     </td>
     <td> <!-- Week 3 - Wednesday Afternoon 1 -->
-      Mongo Lab
+      <a href="https://github.com/SF-WDI-LABS/mongoose-books-app">Mongoose Book App</a> Sprint 1
     </td>
     <td> <!-- Week 3 - Thursday Afternoon 1 -->
       Book App
