@@ -70,7 +70,7 @@
     <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
     </td>
     <td> <!-- Week 3 - Thursday Afternoon 1 -->
-      Book App
+      <a href="https://github.com/SF-WDI-LABS/mongoose-books-app">Book App</a>
       (MF)
     </td>
     <td> <!-- Week 3 - Friday Afternoon 1 / Weekend Lab -->
