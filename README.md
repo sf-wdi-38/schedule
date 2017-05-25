@@ -48,8 +48,8 @@
       (NA)
     </td>
     <td> <!-- Week 3 - Thursday Morning 2 -->
-      Mongo Relationships
-      (NA)
+      <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongo Relationships</a>
+      (MF)
     </td>
     <td> <!-- Week 3 - Friday Morning 2 -->
       Review
