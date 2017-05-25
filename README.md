@@ -25,7 +25,7 @@
       (NA)
     </td>
     <td> <!-- Week 3 - Thursday Morning 1 -->
-      More Mongo
+      Mongo/Express Build
       (NA)
     </td>
     <td> <!-- Week 3 - Friday Morning 1 -->
