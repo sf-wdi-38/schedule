@@ -52,8 +52,8 @@
       (MF)
     </td>
     <td> <!-- Week 3 - Friday Morning 2 -->
-      Review
-      (team)
+      <a href="https://github.com/sf-wdi-38/wow-unicorns-app">Full Stack Review</a>
+      (NA)
     </td>
   </tr>
   <tr>
