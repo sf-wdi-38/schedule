@@ -74,7 +74,7 @@
       (MF)
     </td>
     <td> <!-- Week 3 - Friday Afternoon 1 / Weekend Lab -->
-      Personal API Intro
+      <a href="https://github.com/SF-WDI-LABS/express-personal-api">Personal API Intro</a>
       (MF)
     </td>
   </tr>
@@ -95,7 +95,7 @@
       Outcomes
     </td>
     <td> <!-- Week 3 - Friday Afternoon 2 / Weekend Lab -->
-      Personal API
+      <a href="https://github.com/SF-WDI-LABS/express-personal-api">Personal API</a>
     </td>
   </tr>
   <tr>
