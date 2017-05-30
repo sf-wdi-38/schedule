@@ -1,3 +1,108 @@
+## Week 4: Project 1
+<table>
+  <tr>
+    <td>May 29-June 2</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 4 - Monday Morning 1 -->
+      HOLIDAY
+    </td>
+    <td> <!-- Week 4 - Tuesday Morning 1 -->
+      Code Review (MF)
+    </td>
+    <td> <!-- Week 4 - Wednesday Morning 1 -->
+      Finish Tunely (MF)
+    </td>
+    <td> <!-- Week 4 - Thursday Morning 1 -->
+      P1 Approvals
+      (team)
+    </td>
+    <td> <!-- Week 4 - Friday Morning 1 -->
+      P1
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 4 - Monday Morning 2 -->
+      HOLIDAY
+    </td>
+    <td> <!-- Week 4 - Tuesday Morning 2 -->
+      Start <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a>
+      (MF)
+    </td>
+    <td> <!-- Week 4 - Wednesday Morning 2 -->
+      Finish Tunely & Intro P1
+      (MF)
+    </td>
+    <td> <!-- Week 4 - Thursday Morning 2 -->
+      P1 Approvals
+      (team)
+    </td>
+    <td> <!-- Week 4 - Friday Morning 2 -->
+      P1
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 4 - Monday Afternoon 1 -->
+      HOLIDAY
+    </td>
+    <td> <!-- Week 4 - Tuesday Afternoon 1 -->
+      Tunely
+    </td>
+    <td> <!-- Week 4 - Wednesday Afternoon 1 -->
+      <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
+    </td>
+    <td> <!-- Week 4 - Thursday Afternoon 1 -->
+      P1
+    </td>
+    <td> <!-- Week 4 - Friday Afternoon 1 / Weekend Lab -->
+      P1
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 4 - Monday Afternoon 2 -->
+      HOLIDAY
+    </td>
+    <td> <!-- Week 4 - Tuesday Afternoon 2 -->
+      Tunely
+    </td>
+    <td> <!-- Week 4 - Wednesday Afternoon 2 -->
+      <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
+    </td>
+    <td> <!-- Week 4 - Thursday Afternoon 2 -->
+      P1
+    </td>
+    <td> <!-- Week 4 - Friday Afternoon 2 / Weekend Lab -->
+      P1
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HW</strong></td>
+    <td> <!-- Week 3 - Monday Homework -->
+    <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
+    </td>
+    <td> <!-- Week 3 - Tuesday Homework -->
+    <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
+    </td>
+    <td> <!-- Week 3 - Wednesday Homework -->
+    <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
+    </td>
+    <td> <!-- Week 3 - Thursday Homework -->
+    <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
+    </td>
+    <td> <!-- Week 3 - Friday -->
+    <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
+    </td>
+  </tr>
+</table>
 
 ## Week 3: Server-side Javascript
 
