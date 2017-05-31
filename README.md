@@ -78,7 +78,7 @@
       <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
     </td>
     <td> <!-- Week 4 - Thursday Afternoon 2 -->
-      P1
+      Outcomes (Neda)
     </td>
     <td> <!-- Week 4 - Friday Afternoon 2 / Weekend Lab -->
       P1
