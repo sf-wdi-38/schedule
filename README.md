@@ -37,7 +37,7 @@
       (MF)
     </td>
     <td> <!-- Week 4 - Wednesday Morning 2 -->
-      Finish Tunely & Intro P1
+      Tunely
       (MF)
     </td>
     <td> <!-- Week 4 - Thursday Morning 2 -->
