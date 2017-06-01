@@ -20,7 +20,7 @@
       Finish Tunely (MF)
     </td>
     <td> <!-- Week 4 - Thursday Morning 1 -->
-      P1 Approvals
+      <a href="https://github.com/sf-wdi-38/project-01">P1 Intro</a>
       (team)
     </td>
     <td> <!-- Week 4 - Friday Morning 1 -->
