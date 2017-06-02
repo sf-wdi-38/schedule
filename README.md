@@ -24,7 +24,8 @@
       (team)
     </td>
     <td> <!-- Week 4 - Friday Morning 1 -->
-      P1
+      <a href="https://github.com/SF-WDI-LABS/github-collaboration">Git Collaboration</a>
+      (NA)
     </td>
   </tr>
   <tr>
