@@ -1,4 +1,113 @@
-## Week 4: Project 1
+
+
+## Week 5: Project 1 & React
+<table>
+  <tr>
+    <td>June 5-9</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 5 - Monday Morning 1 -->
+      Algorithms (Emily)
+    </td>
+    <td> <!-- Week 5 - Tuesday Morning 1 -->
+      Algorithms (MF)
+    </td>
+    <td> <!-- Week 5 - Wednesday Morning 1 -->
+      Algorithms (MF)
+    </td>
+    <td> <!-- Week 5 - Thursday Morning 1 -->
+      P1 Presentations at 10am
+    </td>
+    <td> <!-- Week 5 - Friday Morning 1 -->
+      React
+      (MF)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 5 - Monday Morning 2 -->
+      P1
+    </td>
+    <td> <!-- Week 5 - Tuesday Morning 2 -->
+      P1
+    </td>
+    <td> <!-- Week 5 - Wednesday Morning 2 -->
+      P1
+    </td>
+    <td> <!-- Week 5 - Thursday Morning 2 -->
+      P1 Presentations & reflection
+    </td>
+    <td> <!-- Week 5 - Friday Morning 2 -->
+      React
+      (MF)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 5 - Monday Afternoon 1 -->
+      P1
+    </td>
+    <td> <!-- Week 5 - Tuesday Afternoon 1 -->
+      P1
+    </td>
+    <td> <!-- Week 5 - Wednesday Afternoon 1 -->
+      Finish P1/prep presentation
+    </td>
+    <td> <!-- Week 5 - Thursday Afternoon 1 -->
+      Javascript ES6 Practice
+      (NA)
+    </td>
+    <td> <!-- Week 5 - Friday Afternoon 1 / Weekend Lab -->
+      React (MF)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 5 - Monday Afternoon 2 -->
+      P1
+    </td>
+    <td> <!-- Week 5 - Tuesday Afternoon 2 -->
+      P1
+    </td>
+    <td> <!-- Week 5 - Wednesday Afternoon 2 -->
+      Finish P1/prep presentation
+    </td>
+    <td> <!-- Week 5 - Thursday Afternoon 2 -->
+      React Intro
+      (NA)
+    </td>
+    <td> <!-- Week 5 - Friday Afternoon 2 / Weekend Lab -->
+      Start React Todo Lab
+      (MF)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HW</strong></td>
+    <td> <!-- Week 3 - Monday Homework -->
+    <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
+    </td>
+    <td> <!-- Week 3 - Tuesday Homework -->
+    <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
+    </td>
+    <td> <!-- Week 3 - Wednesday Homework -->
+    <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
+    </td>
+    <td> <!-- Week 3 - Thursday Homework -->
+    <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
+    </td>
+    <td> <!-- Week 3 - Friday -->
+    <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
+    </td>
+  </tr>
+</table>
+
+## Week 4: Tunely & Project 1
 <table>
   <tr>
     <td>May 29-June 2</td>
