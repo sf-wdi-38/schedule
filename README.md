@@ -60,7 +60,10 @@
       Finish P1/prep presentation
     </td>
     <td> <!-- Week 5 - Thursday Afternoon 1 -->
-      Javascript ES6 Practice
+      OO Refresher /
+      <a href="http://javascript.info/class">ES6 Classes</a>
+      &amp;
+      <a href="http://javascript.info/class-inheritance">Inheritance</a>
       (NA)
     </td>
     <td> <!-- Week 5 - Friday Afternoon 1 / Weekend Lab -->
@@ -79,7 +82,7 @@
       Finish P1/prep presentation
     </td>
     <td> <!-- Week 5 - Thursday Afternoon 2 -->
-      React Intro
+      <a href="https://github.com/SF-WDI-LABS/react-intro">React Intro</a>
       (NA)
     </td>
     <td> <!-- Week 5 - Friday Afternoon 2 / Weekend Lab -->
