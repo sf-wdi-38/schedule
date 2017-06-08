@@ -67,6 +67,7 @@
       (NA)
     </td>
     <td> <!-- Week 5 - Friday Afternoon 1 / Weekend Lab -->
+      <a href="https://github.com/SF-WDI-LABS/react-router">React Router</a>,
       <a href="https://github.com/SF-WDI-LABS/react-hooks">React Hooks</a>
       and start <a href="https://github.com/SF-WDI-LABS/react-todo-walkthrough-jquery">React Todo Lab</a> (MF)
     </td>
