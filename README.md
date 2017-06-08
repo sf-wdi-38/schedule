@@ -25,7 +25,7 @@
       P1 Presentations at 10am
     </td>
     <td> <!-- Week 5 - Friday Morning 1 -->
-      React
+      <a href="https://github.com/SF-WDI-LABS/react-intro-2">React Intro, part 2</a>
       (MF)
     </td>
   </tr>
@@ -44,7 +44,7 @@
       P1 Presentations & reflection
     </td>
     <td> <!-- Week 5 - Friday Morning 2 -->
-      React
+      <a href="https://github.com/SF-WDI-LABS/atm-react">React ATM</a>
       (MF)
     </td>
   </tr>
@@ -67,7 +67,8 @@
       (NA)
     </td>
     <td> <!-- Week 5 - Friday Afternoon 1 / Weekend Lab -->
-      React (MF)
+      <a href="https://github.com/SF-WDI-LABS/react-hooks">React Hooks</a>
+      and start <a href="https://github.com/SF-WDI-LABS/react-todo-walkthrough-jquery">React Todo Lab</a> (MF)
     </td>
   </tr>
   <tr>
