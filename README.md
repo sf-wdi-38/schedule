@@ -15,20 +15,19 @@
       (MF)
     </td>
     <td> <!-- Week 6 - Tuesday Morning 1 -->
-      Drill
-      (tbd)
+      MERN
+      (NA)
     </td>
     <td> <!-- Week 6 - Wednesday Morning 1 -->
-      Drill
-      (tbd)
+      Welcome to React Build Day
+      (MF)
     </td>
     <td> <!-- Week 6 - Thursday Morning 1 -->
-      Drill
-      (tbd)
+      Science-fair-presentations of Build Day
+      (MF)
     </td>
     <td> <!-- Week 6 - Friday Morning 1 -->
-      Review
-      (team)
+      Present lightning talks
     </td>
   </tr>
   <tr>
@@ -38,88 +37,82 @@
       (MF)
     </td>
     <td> <!-- Week 6 - Tuesday Morning 2 -->
-      Topic
-      (tbd)
+      MERN
+      (NA)
     </td>
     <td> <!-- Week 6 - Wednesday Morning 2 -->
-      Topic
-      (tbd)
+      React Build Day
+      (MF)
     </td>
     <td> <!-- Week 6 - Thursday Morning 2 -->
-      Topic
-      (tbd)
+      Build Day Code Review
+      (MF)
     </td>
     <td> <!-- Week 6 - Friday Morning 2 -->
-      Review
-      (team)
+      Intro to Ruby
+      (NA)
     </td>
   </tr>
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 6 - Monday Afternoon 1 -->
-      Intro MERN stack
-      (NA)
+      Recap & discussion
+      (MF)
     </td>
     <td> <!-- Week 6 - Tuesday Afternoon 1 -->
-      Topic
-      (tbd)
+      MERN
+      (NA)
     </td>
     <td> <!-- Week 6 - Wednesday Afternoon 1 -->
-      Topic
-      (tbd)
+      React Build Day
     </td>
     <td> <!-- Week 6 - Thursday Afternoon 1 -->
-      Topic
-      (tbd)
+      Intro to Lightning Talks
+      (NA)
     </td>
     <td> <!-- Week 6 - Friday Afternoon 1 / Weekend Lab -->
-      Weekend Lab
-      (tbd)
+      Ruby & Methods
+      (MF)
     </td>
   </tr>
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 6 - Monday Afternoon 2 -->
-      MERN
-      (tbd)
+      MERN intro
+      (NA)
     </td>
     <td> <!-- Week 6 - Tuesday Afternoon 2 -->
-      Topic
-      (tbd)
+      Review MERN
+      (NA/MF)
     </td>
     <td> <!-- Week 6 - Wednesday Afternoon 2 -->
-      Topic
-      (tbd)
+      React Build Day
     </td>
     <td> <!-- Week 6 - Thursday Afternoon 2 -->
-      Topic
-      (tbd)
+      Outcomes
+      (Neda)
     </td>
     <td> <!-- Week 6 - Friday Afternoon 2 / Weekend Lab -->
-      Weekend Lab
-      (tbd)
+      Start Ruby method drills
+      (MF)
     </td>
   </tr>
   <tr>
     <td><strong>HW</strong></td>
-    <td> <!-- Week 6 - Monday Homework -->
-      Reading
-      (tbd)
+    <td> <!-- Week 3 - Monday Homework -->
+    <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
     </td>
-    <td> <!-- Week 6 - Tuesday Homework -->
-      Reading
-      (tbd)
+    <td> <!-- Week 3 - Tuesday Homework -->
+    <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
     </td>
-    <td> <!-- Week 6 - Wednesday Homework -->
-      Reading
-      (tbd)
+    <td> <!-- Week 3 - Wednesday Homework -->
+    <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
     </td>
-    <td> <!-- Week 6 - Thursday Homework -->
-      Reading
-      (tbd)
+    <td> <!-- Week 3 - Thursday Homework -->
+    <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
     </td>
-    <td> <!-- Week 6 - Friday -->
-      <!-- BLANK -->
+    <td> <!-- Week 3 - Friday -->
+    <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework">See wiki</a>
     </td>
   </tr>
 </table>
