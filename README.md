@@ -1,3 +1,128 @@
+## Week 6: React & Intro Ruby
+<table>
+  <tr>
+    <td>June 12-16</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 6 - Monday Morning 1 -->
+      <a href="https://github.com/SF-WDI-LABS/react-todo-walkthrough-jquery">React Todo Lab</a> sprints 1-3 recap & sprint 4
+      (MF)
+    </td>
+    <td> <!-- Week 6 - Tuesday Morning 1 -->
+      Drill
+      (tbd)
+    </td>
+    <td> <!-- Week 6 - Wednesday Morning 1 -->
+      Drill
+      (tbd)
+    </td>
+    <td> <!-- Week 6 - Thursday Morning 1 -->
+      Drill
+      (tbd)
+    </td>
+    <td> <!-- Week 6 - Friday Morning 1 -->
+      Review
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 6 - Monday Morning 2 -->
+      <a href="https://github.com/SF-WDI-LABS/react-todo-walkthrough-jquery">React Todo Lab</a> sprints 5 & 6
+      (MF)
+    </td>
+    <td> <!-- Week 6 - Tuesday Morning 2 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 6 - Wednesday Morning 2 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 6 - Thursday Morning 2 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 6 - Friday Morning 2 -->
+      Review
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 6 - Monday Afternoon 1 -->
+      Intro MERN stack
+      (NA)
+    </td>
+    <td> <!-- Week 6 - Tuesday Afternoon 1 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 6 - Wednesday Afternoon 1 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 6 - Thursday Afternoon 1 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 6 - Friday Afternoon 1 / Weekend Lab -->
+      Weekend Lab
+      (tbd)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 6 - Monday Afternoon 2 -->
+      MERN
+      (tbd)
+    </td>
+    <td> <!-- Week 6 - Tuesday Afternoon 2 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 6 - Wednesday Afternoon 2 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 6 - Thursday Afternoon 2 -->
+      Topic
+      (tbd)
+    </td>
+    <td> <!-- Week 6 - Friday Afternoon 2 / Weekend Lab -->
+      Weekend Lab
+      (tbd)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HW</strong></td>
+    <td> <!-- Week 6 - Monday Homework -->
+      Reading
+      (tbd)
+    </td>
+    <td> <!-- Week 6 - Tuesday Homework -->
+      Reading
+      (tbd)
+    </td>
+    <td> <!-- Week 6 - Wednesday Homework -->
+      Reading
+      (tbd)
+    </td>
+    <td> <!-- Week 6 - Thursday Homework -->
+      Reading
+      (tbd)
+    </td>
+    <td> <!-- Week 6 - Friday -->
+      <!-- BLANK -->
+    </td>
+  </tr>
+</table>
 
 
 ## Week 5: Project 1 & React
