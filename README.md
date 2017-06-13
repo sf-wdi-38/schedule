@@ -15,7 +15,7 @@
       (MF)
     </td>
     <td> <!-- Week 6 - Tuesday Morning 1 -->
-      MERN
+      Reddit Clone Group Code
       (NA)
     </td>
     <td> <!-- Week 6 - Wednesday Morning 1 -->
@@ -37,7 +37,7 @@
       (MF)
     </td>
     <td> <!-- Week 6 - Tuesday Morning 2 -->
-      MERN
+      Reddit Clone Group Code
       (NA)
     </td>
     <td> <!-- Week 6 - Wednesday Morning 2 -->
@@ -60,7 +60,7 @@
       (MF)
     </td>
     <td> <!-- Week 6 - Tuesday Afternoon 1 -->
-      MERN
+      MERN: Project 1, revisited?
       (NA)
     </td>
     <td> <!-- Week 6 - Wednesday Afternoon 1 -->
@@ -82,8 +82,7 @@
       (NA)
     </td>
     <td> <!-- Week 6 - Tuesday Afternoon 2 -->
-      Review MERN
-      (NA/MF)
+      MERN
     </td>
     <td> <!-- Week 6 - Wednesday Afternoon 2 -->
       React Build Day
