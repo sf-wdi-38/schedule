@@ -19,7 +19,7 @@
       (NA)
     </td>
     <td> <!-- Week 6 - Wednesday Morning 1 -->
-      Welcome to React Build Day
+      <a href="https://github.com/sf-wdi-38/react-build-day">Welcome to React Build Day</a>
       (MF)
     </td>
     <td> <!-- Week 6 - Thursday Morning 1 -->
