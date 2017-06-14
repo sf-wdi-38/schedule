@@ -23,7 +23,7 @@
       (MF)
     </td>
     <td> <!-- Week 6 - Thursday Morning 1 -->
-      Science-fair-presentations of Build Day
+      Science-fair-presentations of Build Day & pair code review
       (MF)
     </td>
     <td> <!-- Week 6 - Friday Morning 1 -->
@@ -45,8 +45,8 @@
       (MF)
     </td>
     <td> <!-- Week 6 - Thursday Morning 2 -->
-      Build Day Code Review
-      (MF)
+      Intro Lightning Talks
+      (NA)
     </td>
     <td> <!-- Week 6 - Friday Morning 2 -->
       Intro to Ruby
@@ -67,7 +67,7 @@
       React Build Day
     </td>
     <td> <!-- Week 6 - Thursday Afternoon 1 -->
-      Intro to Lightning Talks
+      Lightning Talks
       (NA)
     </td>
     <td> <!-- Week 6 - Friday Afternoon 1 / Weekend Lab -->
