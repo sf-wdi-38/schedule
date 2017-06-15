@@ -45,7 +45,9 @@
       (MF)
     </td>
     <td> <!-- Week 6 - Thursday Morning 2 -->
+      <a href="https://github.com/SF-WDI-LABS/lightning-talks">
       Intro Lightning Talks
+      </a>
       (NA)
     </td>
     <td> <!-- Week 6 - Friday Morning 2 -->
