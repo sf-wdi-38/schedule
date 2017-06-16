@@ -51,7 +51,7 @@
       (NA)
     </td>
     <td> <!-- Week 6 - Friday Morning 2 -->
-      Intro to Ruby
+      <a href="https://github.com/SF-WDI-LABS/intro-ruby">Intro to Ruby</a>
       (NA)
     </td>
   </tr>
