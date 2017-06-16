@@ -94,7 +94,7 @@
       (Neda)
     </td>
     <td> <!-- Week 6 - Friday Afternoon 2 / Weekend Lab -->
-      Start Ruby method drills
+      Start <a href="https://github.com/SF-WDI-LABS/ruby-method-drills">Ruby method drills</a>
       (MF)
     </td>
   </tr>
