@@ -73,7 +73,7 @@
       (NA)
     </td>
     <td> <!-- Week 6 - Friday Afternoon 1 / Weekend Lab -->
-      Ruby & Methods
+      Ruby & <a href="https://github.com/SF-WDI-LABS/ruby-methods">Methods</a>
       (MF)
     </td>
   </tr>
