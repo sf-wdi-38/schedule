@@ -15,7 +15,7 @@
       (MF)
     </td>
     <td> <!-- Week 7 - Tuesday Morning 1 -->
-      Algorithms: Implementing LinkedLists
+      <a href="https://github.com/SF-WDI-LABS/ruby-linked-list">Algorithms: Implementing LinkedLists</a>
       (MF)
     </td>
     <td> <!-- Week 7 - Wednesday Morning 1 -->
@@ -38,7 +38,7 @@
       (MF)
     </td>
     <td> <!-- Week 7 - Tuesday Morning 2 -->
-      Inheritance
+      <a href="https://github.com/SF-WDI-LABS/ruby-monster-oop">Objects & Inheritance</a>
       (MF)
     </td>
     <td> <!-- Week 7 - Wednesday Morning 2 -->
