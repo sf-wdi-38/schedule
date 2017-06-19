@@ -84,7 +84,7 @@
       (NA)
     </td>
     <td> <!-- Week 7 - Tuesday Afternoon 2 -->
-      Go Fish
+      <a href="https://github.com/SF-WDI-LABS/go-fish-card-game">Go Fish</a>
       (MF)
     </td>
     <td> <!-- Week 7 - Wednesday Afternoon 2 -->
