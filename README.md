@@ -23,8 +23,8 @@
       (NA)
     </td>
     <td> <!-- Week 7 - Thursday Morning 1 -->
-      Drill
-      (tbd)
+      Rails Intro
+      (BV)
     </td>
     <td> <!-- Week 7 - Friday Morning 1 -->
       Review
@@ -46,8 +46,8 @@
       (NA)
     </td>
     <td> <!-- Week 7 - Thursday Morning 2 -->
-      Topic
-      (tbd)
+      Rails Intro
+      (BV)
     </td>
     <td> <!-- Week 7 - Friday Morning 2 -->
       Review
