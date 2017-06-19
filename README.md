@@ -57,7 +57,7 @@
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 7 - Monday Afternoon 1 -->
-      <a href="https://github.com/SF-WDI-LABS/ruby-oop">OO Ruby</a>
+      <a href="https://github.com/SF-WDI-LABS/ruby-regular-expressions">Regular Expressions</a>
       (NA)
     </td>
     <td> <!-- Week 7 - Tuesday Afternoon 1 -->
@@ -80,7 +80,7 @@
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 7 - Monday Afternoon 2 -->
-      OO
+      <a href="https://github.com/SF-WDI-LABS/ruby-oop">OO Ruby</a>
       (NA)
     </td>
     <td> <!-- Week 7 - Tuesday Afternoon 2 -->
