@@ -1,4 +1,4 @@
-## Week 7: <!-- TOPIC -->
+## Week 7: Ruby and Rails
 <table>
   <tr>
     <td>June 19-23</td>
