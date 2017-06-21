@@ -67,7 +67,7 @@
       (MF)
     </td>
     <td> <!-- Week 7 - Wednesday Afternoon 1 -->
-      <a href="github.com/SF-WDI-LABS/active-record">ActiveRecord Lab</a>
+      <a href="https://github.com/SF-WDI-LABS/active-record">ActiveRecord Lab</a>
       (NA)
     </td>
     <td> <!-- Week 7 - Thursday Afternoon 1 -->
@@ -90,7 +90,7 @@
       (MF)
     </td>
     <td> <!-- Week 7 - Wednesday Afternoon 2 -->
-      Independent ActiveRecord Lab
+      ActiveRecord Lab
       (NA)
     </td>
     <td> <!-- Week 7 - Thursday Afternoon 2 -->
