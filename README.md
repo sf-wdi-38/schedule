@@ -25,7 +25,7 @@
       (NA)
     </td>
     <td> <!-- Week 7 - Thursday Morning 1 -->
-      Rails Intro
+    <a href="https://github.com/SF-WDI-LABS/rails-intro">Rails Intro</a>
       (BV)
     </td>
     <td> <!-- Week 7 - Friday Morning 1 -->
@@ -48,12 +48,12 @@
       (NA)
     </td>
     <td> <!-- Week 7 - Thursday Morning 2 -->
-      Rails Intro
+    <a href="https://github.com/SF-WDI-LABS/rails-intro">Rails Intro</a>
       (BV)
     </td>
     <td> <!-- Week 7 - Friday Morning 2 -->
-      Review
-      (team)
+      Rails Views & Helpers
+      (BV)
     </td>
   </tr>
   <tr>
@@ -71,12 +71,12 @@
       (NA)
     </td>
     <td> <!-- Week 7 - Thursday Afternoon 1 -->
-      Topic
-      (tbd)
+      Rails Lab
+      (NA)
     </td>
     <td> <!-- Week 7 - Friday Afternoon 1 / Weekend Lab -->
-      Weekend Lab
-      (tbd)
+      Views & Helpers Lab
+      (BV)
     </td>
   </tr>
   <tr>
@@ -98,8 +98,8 @@
       (Neda)
     </td>
     <td> <!-- Week 7 - Friday Afternoon 2 / Weekend Lab -->
-      Weekend Lab
-      (tbd)
+      Rails Reps Weekend Lab
+      (NA)
     </td>
   </tr>
   <tr>
