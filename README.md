@@ -19,7 +19,9 @@
       (MF)
     </td>
     <td> <!-- Week 7 - Wednesday Morning 1 -->
-      SQL
+      <a href="https://github.com/SF-WDI-LABS/intro-sql">SQL</a>
+      &
+      <a href="https://kripken.github.io/sql.js/GUI/">Emulator</a>
       (NA)
     </td>
     <td> <!-- Week 7 - Thursday Morning 1 -->
@@ -42,7 +44,7 @@
       (MF)
     </td>
     <td> <!-- Week 7 - Wednesday Morning 2 -->
-      ActiveRecord
+      <a href="https://github.com/SF-WDI-LABS/sql-carmen-sandiego">SQL Lab</a>
       (NA)
     </td>
     <td> <!-- Week 7 - Thursday Morning 2 -->
@@ -65,7 +67,7 @@
       (MF)
     </td>
     <td> <!-- Week 7 - Wednesday Afternoon 1 -->
-      Independent ActiveRecord Lab
+      <a href="github.com/SF-WDI-LABS/active-record">ActiveRecord Lab</a>
       (NA)
     </td>
     <td> <!-- Week 7 - Thursday Afternoon 1 -->
