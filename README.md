@@ -71,7 +71,7 @@
       (NA)
     </td>
     <td> <!-- Week 7 - Thursday Afternoon 1 -->
-      Rails Lab
+      <a href="https://github.com/SF-WDI-LABS/rock-n-rails">Rock'n Rails</a>
       (NA)
     </td>
     <td> <!-- Week 7 - Friday Afternoon 1 / Weekend Lab -->
