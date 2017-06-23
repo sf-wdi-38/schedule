@@ -75,7 +75,7 @@
       (NA)
     </td>
     <td> <!-- Week 7 - Friday Afternoon 1 / Weekend Lab -->
-      Views & Helpers Lab
+      <a href="https://github.com/SF-WDI-LABS/rails-views-partials-helpers-lab">Views & Helpers Lab</a>
       (BV)
     </td>
   </tr>
