@@ -219,7 +219,7 @@
       (Neda)
     </td>
     <td> <!-- Week 7 - Friday Afternoon 2 / Weekend Lab -->
-      <a href="https://github.com/SF-WDI-LABS/bog_app">Bog App Time Trials</a>
+      <a href="https://github.com/SF-WDI-LABS/rails_bog_app">Bog App Time Trials</a>
       (NA)
     </td>
   </tr>
