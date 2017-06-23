@@ -1,3 +1,129 @@
+## Week 8: Users & Auth
+<table>
+  <tr>
+    <td>June 26-30</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 8 - Monday Morning 1 -->
+      Migrations
+      (NA)
+    </td>
+    <td> <!-- Week 8 - Tuesday Morning 1 -->
+      Errors & Validations
+      (BV)
+    </td>
+    <td> <!-- Week 8 - Wednesday Morning 1 -->
+      Authentication
+      (BV)
+    </td>
+    <td> <!-- Week 8 - Thursday Morning 1 -->
+      Library App part 2
+      (BV)
+    </td>
+    <td> <!-- Week 8 - Friday Morning 1 -->
+      Roman Numerals with Rspec
+      (NA)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 8 - Monday Morning 2 -->
+    Migrations
+    (NA)
+    </td>
+    <td> <!-- Week 8 - Tuesday Morning 2 -->
+    Errors & Validations
+    (BV)
+    </td>
+    <td> <!-- Week 8 - Wednesday Morning 2 -->
+    Authentication Lab
+    (BV)
+    </td>
+    <td> <!-- Week 8 - Thursday Morning 2 -->
+    Library App part 2
+    (BV)
+    </td>
+    <td> <!-- Week 8 - Friday Morning 2 -->
+      Rspec Rails
+      (BV)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 8 - Monday Afternoon 1 -->
+      Associations
+      (BV)
+    </td>
+    <td> <!-- Week 8 - Tuesday Afternoon 1 -->
+      Pet Lab part 5
+      (NA)
+    </td>
+    <td> <!-- Week 8 - Wednesday Afternoon 1 -->
+      Library App Part 1
+
+    </td>
+    <td> <!-- Week 8 - Thursday Afternoon 1 -->
+      Asset Pipeline
+      (NA)
+    </td>
+    <td> <!-- Week 8 - Friday Afternoon 1 / Weekend Lab -->
+    Rspec Rails
+    (BV)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 8 - Monday Afternoon 2 -->
+      Pet Lab
+    </td>
+    <td> <!-- Week 8 - Tuesday Afternoon 2 -->
+      Cookies & Sessions
+      (NA)
+    </td>
+    <td> <!-- Week 8 - Wednesday Afternoon 2 -->
+      Library App Part 1
+    </td>
+    <td> <!-- Week 8 - Thursday Afternoon 2 -->
+      Outcomes
+      (NJ)
+    </td>
+    <td> <!-- Week 8 - Friday Afternoon 2 / Weekend Lab -->
+      Weekend Lab
+      (tbd)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HW</strong></td>
+    <td> <!-- Week 8 - Monday Homework -->
+      Reading
+      (tbd)
+    </td>
+    <td> <!-- Week 8 - Tuesday Homework -->
+      Reading
+      (tbd)
+    </td>
+    <td> <!-- Week 8 - Wednesday Homework -->
+      Reading
+      (tbd)
+    </td>
+    <td> <!-- Week 8 - Thursday Homework -->
+      Reading
+      (tbd)
+    </td>
+    <td> <!-- Week 8 - Friday -->
+      <!-- BLANK -->
+    </td>
+  </tr>
+</table>
+
+
+
 ## Week 7: Ruby and Rails
 <table>
   <tr>
