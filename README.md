@@ -100,20 +100,16 @@
   <tr>
     <td><strong>HW</strong></td>
     <td> <!-- Week 8 - Monday Homework -->
-      Reading
-      (tbd)
+      See wiki
     </td>
     <td> <!-- Week 8 - Tuesday Homework -->
-      Reading
-      (tbd)
+      See wiki
     </td>
     <td> <!-- Week 8 - Wednesday Homework -->
-      Reading
-      (tbd)
+      See wiki
     </td>
     <td> <!-- Week 8 - Thursday Homework -->
-      Reading
-      (tbd)
+      See wiki
     </td>
     <td> <!-- Week 8 - Friday -->
       <!-- BLANK -->
