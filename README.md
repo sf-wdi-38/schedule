@@ -66,7 +66,6 @@
     </td>
     <td> <!-- Week 8 - Wednesday Afternoon 1 -->
       Library App Part 1
-
     </td>
     <td> <!-- Week 8 - Thursday Afternoon 1 -->
       Asset Pipeline
