@@ -52,7 +52,7 @@
       (BV)
     </td>
     <td> <!-- Week 7 - Friday Morning 2 -->
-    <a href="https://github.com/sf-wdi-38/rails-views-and-helpers">Rails Views & Helpers</a>
+    Rails Views: <a href="https://github.com/sf-wdi-38/rails-path-and-view-helpers">Helpers</a> and <a href="https://github.com/sf-wdi-38/rails-view-templating">Templating</a>
       (BV)
     </td>
   </tr>
