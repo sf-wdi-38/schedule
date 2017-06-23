@@ -98,7 +98,7 @@
       (Neda)
     </td>
     <td> <!-- Week 7 - Friday Afternoon 2 / Weekend Lab -->
-      Rails Reps Weekend Lab
+      <a href="https://github.com/SF-WDI-LABS/bog_app">Bog App Time Trials</a>
       (NA)
     </td>
   </tr>
