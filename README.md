@@ -57,7 +57,7 @@
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 8 - Monday Afternoon 1 -->
-      Associations
+    <a href="https://github.com/SF-WDI-LABS/rails-associations">Associations</a>
       (BV)
     </td>
     <td> <!-- Week 8 - Tuesday Afternoon 1 -->
