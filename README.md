@@ -100,7 +100,7 @@
   <tr>
     <td><strong>HW</strong></td>
     <td> <!-- Week 8 - Monday Homework -->
-      See wiki
+    <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework#monday-june-26">See wiki</a>
     </td>
     <td> <!-- Week 8 - Tuesday Homework -->
       See wiki
