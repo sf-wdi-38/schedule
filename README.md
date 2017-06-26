@@ -11,7 +11,7 @@
   <tr>
     <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 8 - Monday Morning 1 -->
-      Migrations
+      Review
       (NA)
     </td>
     <td> <!-- Week 8 - Tuesday Morning 1 -->
@@ -34,7 +34,7 @@
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 8 - Monday Morning 2 -->
-    Migrations
+    <a href="https://github.com/SF-WDI-LABS/migrations">Migrations</a>
     (NA)
     </td>
     <td> <!-- Week 8 - Tuesday Morning 2 -->
