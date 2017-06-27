@@ -79,12 +79,12 @@
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 8 - Monday Afternoon 2 -->
+      Pet Lab
+    </td>
+    <td> <!-- Week 8 - Tuesday Afternoon 2 -->
       <a href="https://github.com/SF-WDI-LABS/cookie-monster-app">Cookie Monster Lab</a>
       &amp;
       <a href="https://github.com/SF-WDI-LABS/rails-pet-lab#part-v-owner--pet-validations">Pets 5</a>
-    </td>
-    <td> <!-- Week 8 - Tuesday Afternoon 2 -->
-      Cookies & Sessions
       (NA)
     </td>
     <td> <!-- Week 8 - Wednesday Afternoon 2 -->
