@@ -15,7 +15,7 @@
       (NA)
     </td>
     <td> <!-- Week 8 - Tuesday Morning 1 -->
-      Errors & Validations
+      <a href="https://github.com/SF-WDI-LABS/rails-validations-and-error-handling">Errors & Validations</a>
       (BV)
     </td>
     <td> <!-- Week 8 - Wednesday Morning 1 -->
