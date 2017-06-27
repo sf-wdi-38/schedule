@@ -19,7 +19,7 @@
       (BV)
     </td>
     <td> <!-- Week 8 - Wednesday Morning 1 -->
-      Authentication
+    <a href="https://github.com/SF-WDI-LABS/rails-auth">Authentication</a>
       (BV)
     </td>
     <td> <!-- Week 8 - Thursday Morning 1 -->
