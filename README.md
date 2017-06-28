@@ -105,10 +105,10 @@
     <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework#monday-june-26">See wiki</a>
     </td>
     <td> <!-- Week 8 - Tuesday Homework -->
-      See wiki
+    <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework#tuesday-june-27">See wiki</a>
     </td>
     <td> <!-- Week 8 - Wednesday Homework -->
-      See wiki
+    <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework#wednesday-june-28">See wiki</a>
     </td>
     <td> <!-- Week 8 - Thursday Homework -->
       See wiki
