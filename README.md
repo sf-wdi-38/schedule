@@ -68,7 +68,7 @@
     <a href="https://github.com/SF-WDI-LABS/public-library-app">Library App</a> Part 1
     </td>
     <td> <!-- Week 8 - Thursday Afternoon 1 -->
-      Asset Pipeline
+      <a href="https://github.com/SF-WDI-LABS/rails-asset-pipeline">Asset Pipeline</a> & <a href="https://github.com/SF-WDI-LABS/asset-pipeline-poem">Poem</a>
       (NA)
     </td>
     <td> <!-- Week 8 - Friday Afternoon 1 / Weekend Lab -->
