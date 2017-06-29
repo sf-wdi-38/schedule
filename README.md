@@ -111,7 +111,7 @@
     <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework#wednesday-june-28">See wiki</a>
     </td>
     <td> <!-- Week 8 - Thursday Homework -->
-      See wiki
+      <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework#thursday-june-29">See wiki</a>
     </td>
     <td> <!-- Week 8 - Friday -->
       <!-- BLANK -->
