@@ -114,6 +114,7 @@
     </td>
     <td> <!-- Week 8 - Friday -->
       <!-- BLANK -->
+      <a href="https://github.com/sf-wdi-38/schedule/wiki/Homework#friday-june-30">See wiki</a>
     </td>
   </tr>
 </table>
