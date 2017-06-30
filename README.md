@@ -1,3 +1,116 @@
+## Week 9: <!-- TOPIC -->
+<table>
+  <tr>
+    <td>July 3-7</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 9 - Monday Morning 1 -->
+      HOLIDAY
+    </td>
+    <td> <!-- Week 9 - Tuesday Morning 1 -->
+      HOLIDAY
+    </td>
+    <td> <!-- Week 9 - Wednesday Morning 1 -->
+      Review
+      (NA, BV)
+    </td>
+    <td> <!-- Week 9 - Thursday Morning 1 -->
+      Vagabond
+      (tbd)
+    </td>
+    <td> <!-- Week 9 - Friday Morning 1 -->
+      Vagabond
+      (tbd)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 9 - Monday Morning 2 -->
+      HOLIDAY
+    </td>
+    <td> <!-- Week 9 - Tuesday Morning 2 -->
+      HOLIDAY
+    </td>
+    <td> <!-- Week 9 - Wednesday Morning 2 -->
+      Review
+      (NA, BV)
+    </td>
+    <td> <!-- Week 9 - Thursday Morning 2 -->
+      Vagabond
+      (tbd)
+    </td>
+    <td> <!-- Week 9 - Friday Morning 2 -->
+      Vagabond
+      (tbd)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 9 - Monday Afternoon 1 -->
+      HOLIDAY
+    </td>
+    <td> <!-- Week 9 - Tuesday Afternoon 1 -->
+      HOLIDAY
+    </td>
+    <td> <!-- Week 9 - Wednesday Afternoon 1 -->
+      Vagabond
+    </td>
+    <td> <!-- Week 9 - Thursday Afternoon 1 -->
+      Vagabond
+      (tbd)
+    </td>
+    <td> <!-- Week 9 - Friday Afternoon 1 / Weekend Lab -->
+      Vagabond
+      (tbd)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 9 - Monday Afternoon 2 -->
+      HOLIDAY
+    </td>
+    <td> <!-- Week 9 - Tuesday Afternoon 2 -->
+      HOLIDAY
+    </td>
+    <td> <!-- Week 9 - Wednesday Afternoon 2 -->
+      Vagabond
+    </td>
+    <td> <!-- Week 9 - Thursday Afternoon 2 -->
+      Outcomes
+      (NJ)
+    </td>
+    <td> <!-- Week 9 - Friday Afternoon 2 / Weekend Lab -->
+      Vagabond
+      (tbd)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HW</strong></td>
+    <td> <!-- Week 9 - Monday Homework -->
+      HOLIDAY
+    </td>
+    <td> <!-- Week 9 - Tuesday Homework -->
+      HOLIDAY
+    </td>
+    <td> <!-- Week 9 - Wednesday Homework -->
+      Vagabond
+    </td>
+    <td> <!-- Week 9 - Thursday Homework -->
+      Vagabond
+    </td>
+    <td> <!-- Week 9 - Friday -->
+      <!-- BLANK -->
+    </td>
+  </tr>
+</table>
+
+
 ## Week 8: Users & Auth
 <table>
   <tr>
@@ -95,7 +208,7 @@
       (NJ)
     </td>
     <td> <!-- Week 8 - Friday Afternoon 2 / Weekend Lab -->
-      Holiday weekend :fireworks:
+      HOLIDAY :fireworks:
     </td>
   </tr>
   <tr>
