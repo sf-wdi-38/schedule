@@ -72,7 +72,7 @@
       (NA)
     </td>
     <td> <!-- Week 8 - Friday Afternoon 1 / Weekend Lab -->
-    <a href="https://github.com/SF-WDI-LABS/rspec_testing_inventory">Rspec Rails Inventory Lab</a>
+    <a href="https://github.com/SF-WDI-LABS/rails-pet-lab/blob/master/docs/part-v.md#model-validation-for-pets">Pet Lab Part 5 TDD</a>
     (BV)
     </td>
   </tr>
