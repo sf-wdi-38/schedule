@@ -27,7 +27,7 @@
       (BV)
     </td>
     <td> <!-- Week 8 - Friday Morning 1 -->
-      Roman Numerals with Rspec
+    <a href="https://github.com/sf-wdi-labs/tdd-roman-numerals">Roman Numerals with Rspec</a>
       (NA)
     </td>
   </tr>
@@ -50,7 +50,7 @@
     (BV)
     </td>
     <td> <!-- Week 8 - Friday Morning 2 -->
-      Rspec Rails
+    <a href="https://github.com/SF-WDI-LABS/testing-with-rspec">Rspec Rails</a>
       (BV)
     </td>
   </tr>
@@ -72,7 +72,7 @@
       (NA)
     </td>
     <td> <!-- Week 8 - Friday Afternoon 1 / Weekend Lab -->
-    Rspec Rails
+    <a href="https://github.com/SF-WDI-LABS/rspec_testing_inventory">Rspec Rails Inventory Lab</a>
     (BV)
     </td>
   </tr>
@@ -95,8 +95,7 @@
       (NJ)
     </td>
     <td> <!-- Week 8 - Friday Afternoon 2 / Weekend Lab -->
-      Weekend Lab
-      (tbd)
+      Holiday weekend :fireworks:
     </td>
   </tr>
   <tr>
