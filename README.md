@@ -25,7 +25,7 @@
       (tbd)
     </td>
     <td> <!-- Week 9 - Friday Morning 1 -->
-      Vagabond
+      Drill
       (tbd)
     </td>
   </tr>
