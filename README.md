@@ -21,7 +21,7 @@
       (NA, BV)
     </td>
     <td> <!-- Week 9 - Thursday Morning 1 -->
-      Migration Hell
+      <a href="https://github.com/SF-WDI-LABS/migration_hell">Migration Hell</a>
       (NA)
     </td>
     <td> <!-- Week 9 - Friday Morning 1 -->
