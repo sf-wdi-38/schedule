@@ -59,7 +59,7 @@
       HOLIDAY
     </td>
     <td> <!-- Week 9 - Wednesday Afternoon 1 -->
-      Vagabond
+    <a href="https://github.com/sf-wdi-38/project-vagabond">Vagabond</a>
     </td>
     <td> <!-- Week 9 - Thursday Afternoon 1 -->
       Vagabond
