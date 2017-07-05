@@ -59,7 +59,7 @@
       HOLIDAY
     </td>
     <td> <!-- Week 9 - Wednesday Afternoon 1 -->
-    <a href="https://github.com/sf-wdi-38/project-vagabond">Vagabond</a>
+    <a href="https://github.com/sf-wdi-38/project-vagabond">Vagabond</a> 
     </td>
     <td> <!-- Week 9 - Thursday Afternoon 1 -->
       Vagabond
@@ -79,7 +79,7 @@
       HOLIDAY
     </td>
     <td> <!-- Week 9 - Wednesday Afternoon 2 -->
-      Vagabond
+      Vagabond & <a href="https://github.com/SF-WDI-LABS/group-culture-building">Brief Culture Building</a>
     </td>
     <td> <!-- Week 9 - Thursday Afternoon 2 -->
       Outcomes
