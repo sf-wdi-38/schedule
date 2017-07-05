@@ -21,8 +21,8 @@
       (NA, BV)
     </td>
     <td> <!-- Week 9 - Thursday Morning 1 -->
-      Vagabond
-      (tbd)
+      Migration Hell
+      (NA)
     </td>
     <td> <!-- Week 9 - Friday Morning 1 -->
       Drill
