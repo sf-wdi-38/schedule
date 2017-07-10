@@ -1,4 +1,110 @@
-## Week 9: <!-- TOPIC -->
+## Week 10: Vagabond to P2
+<table>
+  <tr>
+    <td>July 10-14</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 10 - Monday Morning 1 -->
+      Algorithms: Mock Interview
+      (MF)
+    </td>
+    <td> <!-- Week 10 - Tuesday Morning 1 -->
+      Finish Vagabond
+    </td>
+    <td> <!-- Week 10 - Wednesday Morning 1 -->
+      Algorithms: Practice Interviews 1
+      (MF)
+    </td>
+    <td> <!-- Week 10 - Thursday Morning 1 -->
+      Algorithms: Sorting
+      (MF)
+    </td>
+    <td> <!-- Week 10 - Friday Morning 1 -->
+      Algorithms: More Sorting
+      (MF)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 10 - Monday Morning 2 -->
+      Vagabond
+    </td>
+    <td> <!-- Week 10 - Tuesday Morning 2 -->
+      Vagabond presentations at 11:30
+    </td>
+    <td> <!-- Week 10 - Wednesday Morning 2 -->
+      Present Lightning Talks
+    </td>
+    <td> <!-- Week 10 - Thursday Morning 2 -->
+      P2
+    </td>
+    <td> <!-- Week 10 - Friday Morning 2 -->
+      P2
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 10 - Monday Afternoon 1 -->
+      Vagabond
+    </td>
+    <td> <!-- Week 10 - Tuesday Afternoon 1 -->
+      Intro Ruby Lightning Talks
+    </td>
+    <td> <!-- Week 10 - Wednesday Afternoon 1 -->
+      P2
+    </td>
+    <td> <!-- Week 10 - Thursday Afternoon 1 -->
+      P2
+    </td>
+    <td> <!-- Week 10 - Friday Afternoon 1 / Weekend Lab -->
+      P2
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 10 - Monday Afternoon 2 -->
+      Vagabond (consider feature freeze!)
+    </td>
+    <td> <!-- Week 10 - Tuesday Afternoon 2 -->
+      Ruby Lightning Talks
+    </td>
+    <td> <!-- Week 10 - Wednesday Afternoon 2 -->
+      P2
+    </td>
+    <td> <!-- Week 10 - Thursday Afternoon 2 -->
+      Outcomes (Neda)
+    </td>
+    <td> <!-- Week 10 - Friday Afternoon 2 / Weekend Lab -->
+      P2
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HW</strong></td>
+    <td> <!-- Week 10 - Monday Homework -->
+      Finish Vagabond
+    </td>
+    <td> <!-- Week 10 - Tuesday Homework -->
+      Finish preparing lightning talk
+    </td>
+    <td> <!-- Week 10 - Wednesday Homework -->
+      P2
+    </td>
+    <td> <!-- Week 10 - Thursday Homework -->
+      P2
+    </td>
+    <td> <!-- Week 10 - Friday -->
+      P2
+    </td>
+  </tr>
+</table>
+
+## Week 9: Vagabond
 <table>
   <tr>
     <td>July 3-7</td>
@@ -59,7 +165,7 @@
       HOLIDAY
     </td>
     <td> <!-- Week 9 - Wednesday Afternoon 1 -->
-    <a href="https://github.com/sf-wdi-38/project-vagabond">Vagabond</a> 
+    <a href="https://github.com/sf-wdi-38/project-vagabond">Vagabond</a>
     </td>
     <td> <!-- Week 9 - Thursday Afternoon 1 -->
       Vagabond
