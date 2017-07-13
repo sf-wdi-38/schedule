@@ -18,15 +18,15 @@
       Finish Vagabond
     </td>
     <td> <!-- Week 10 - Wednesday Morning 1 -->
-      Algorithms: Practice Interviews 1
+      Present Lightning Talks
       (MF)
     </td>
     <td> <!-- Week 10 - Thursday Morning 1 -->
-      Algorithms: Sorting
+      Algorithms: Practice Interviews 1
       (MF)
     </td>
     <td> <!-- Week 10 - Friday Morning 1 -->
-      Algorithms: More Sorting
+      Algorithms: Sorting
       (MF)
     </td>
   </tr>
