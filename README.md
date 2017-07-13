@@ -54,10 +54,10 @@
       Vagabond
     </td>
     <td> <!-- Week 10 - Tuesday Afternoon 1 -->
-      Intro Ruby Lightning Talks
+      Intro Ruby <a href="https://github.com/SF-WDI-LABS/lightning-talks">Lightning Talks</a>
     </td>
     <td> <!-- Week 10 - Wednesday Afternoon 1 -->
-      P2
+      <a href="https://github.com/sf-wdi-38/project-02">P2</a>
     </td>
     <td> <!-- Week 10 - Thursday Afternoon 1 -->
       P2
