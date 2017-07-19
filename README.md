@@ -53,7 +53,7 @@
       P2
     </td>
     <td> <!-- Week 11 - Wednesday Afternoon 1 -->
-      Rails Conventions (NA)
+      Legacy Code (NA)
     </td>
     <td> <!-- Week 11 - Thursday Afternoon 1 -->
       Publify
@@ -71,7 +71,7 @@
       P2
     </td>
     <td> <!-- Week 11 - Wednesday Afternoon 2 -->
-      Rails Conventions (NA)
+      <a href="https://github.com/SF-WDI-LABS/rails-code-review">Rails Refactor</a> (NA)
     </td>
     <td> <!-- Week 11 - Thursday Afternoon 2 -->
       Intro to Rails JSON API
