@@ -1,3 +1,105 @@
+## Week 11: The Calm Before the Final Project
+<table>
+  <tr>
+    <td>July 17-21</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 11 - Monday Morning 1 -->
+      Algorithms: MergeSort
+    </td>
+    <td> <!-- Week 11 - Tuesday Morning 1 -->
+      Algorithms: Trees
+    </td>
+    <td> <!-- Week 11 - Wednesday Morning 1 -->
+      Finish P2
+    </td>
+    <td> <!-- Week 11 - Thursday Morning 1 -->
+      Publify Lab
+    </td>
+    <td> <!-- Week 11 - Friday Morning 1 -->
+      Rails JSON
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 11 - Monday Morning 2 -->
+      P2
+    </td>
+    <td> <!-- Week 11 - Tuesday Morning 2 -->
+      P2
+    </td>
+    <td> <!-- Week 11 - Wednesday Morning 2 -->
+      Finish & present P2
+    </td>
+    <td> <!-- Week 11 - Thursday Morning 2 -->
+      Publify
+    </td>
+    <td> <!-- Week 11 - Friday Morning 2 -->
+      React on Rails
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 11 - Monday Afternoon 1 -->
+      P2
+    </td>
+    <td> <!-- Week 11 - Tuesday Afternoon 1 -->
+      P2
+    </td>
+    <td> <!-- Week 11 - Wednesday Afternoon 1 -->
+      Rails Conventions (NA)
+    </td>
+    <td> <!-- Week 11 - Thursday Afternoon 1 -->
+      Publify
+    </td>
+    <td> <!-- Week 11 - Friday Afternoon 1 / Weekend Lab -->
+      React on Rails
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 11 - Monday Afternoon 2 -->
+      P2
+    </td>
+    <td> <!-- Week 11 - Tuesday Afternoon 2 -->
+      P2
+    </td>
+    <td> <!-- Week 11 - Wednesday Afternoon 2 -->
+      Rails Conventions (NA)
+    </td>
+    <td> <!-- Week 11 - Thursday Afternoon 2 -->
+      Intro to Rails JSON API
+    </td>
+    <td> <!-- Week 11 - Friday Afternoon 2 / Weekend Lab -->
+      Intro to Final Project
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HW</strong></td>
+    <td> <!-- Week 11 - Monday Homework -->
+      P2
+    </td>
+    <td> <!-- Week 11 - Tuesday Homework -->
+      P2
+    </td>
+    <td> <!-- Week 11 - Wednesday Homework -->
+      Catch up on sleep?
+    </td>
+    <td> <!-- Week 11 - Thursday Homework -->
+      Rails JSON API Lab
+    </td>
+    <td> <!-- Week 11 - Friday -->
+      Finish React on Rails lab, and Final Project planning work
+    </td>
+  </tr>
+</table>
+
 ## Week 10: Vagabond to P2
 <table>
   <tr>
