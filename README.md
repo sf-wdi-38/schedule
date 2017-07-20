@@ -23,7 +23,7 @@
       <a href="https://github.com/sf-wdi-38/publify-debugging-lab">Publify Lab</a>
     </td>
     <td> <!-- Week 11 - Friday Morning 1 -->
-      Rails JSON
+      Scraping (MF)
     </td>
   </tr>
   <tr>
@@ -41,7 +41,7 @@
       Publify
     </td>
     <td> <!-- Week 11 - Friday Morning 2 -->
-      React on Rails
+      Rails JSON API/Mixing and Matching Tools (NA)
     </td>
   </tr>
   <tr>
@@ -59,7 +59,7 @@
       Publify
     </td>
     <td> <!-- Week 11 - Friday Afternoon 1 / Weekend Lab -->
-      React on Rails
+      Intro to P3
     </td>
   </tr>
   <tr>
@@ -74,10 +74,10 @@
       <a href="https://github.com/SF-WDI-LABS/rails-code-review">Rails Refactor</a> (NA)
     </td>
     <td> <!-- Week 11 - Thursday Afternoon 2 -->
-      Intro to Rails JSON API
+      Outcomes (Neda)
     </td>
     <td> <!-- Week 11 - Friday Afternoon 2 / Weekend Lab -->
-      Intro to Final Project
+      P3
     </td>
   </tr>
   <tr>
@@ -92,10 +92,10 @@
       Catch up on sleep?
     </td>
     <td> <!-- Week 11 - Thursday Homework -->
-      Rails JSON API Lab
+      Sleep some more?
     </td>
     <td> <!-- Week 11 - Friday -->
-      Finish React on Rails lab, and Final Project planning work
+      Final Project planning work
     </td>
   </tr>
 </table>
