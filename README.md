@@ -20,7 +20,7 @@
       Finish P2
     </td>
     <td> <!-- Week 11 - Thursday Morning 1 -->
-      Publify Lab
+      <a href="https://github.com/sf-wdi-38/publify-debugging-lab">Publify Lab</a>
     </td>
     <td> <!-- Week 11 - Friday Morning 1 -->
       Rails JSON
