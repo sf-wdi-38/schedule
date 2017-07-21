@@ -59,7 +59,7 @@
       Publify
     </td>
     <td> <!-- Week 11 - Friday Afternoon 1 / Weekend Lab -->
-      Intro to P3
+      <a href="https://github.com/SF-WDI-LABS/react-on-webpack-on-rails">Frankenstein Apps</a>
     </td>
   </tr>
   <tr>
@@ -77,7 +77,7 @@
       Outcomes (Neda)
     </td>
     <td> <!-- Week 11 - Friday Afternoon 2 / Weekend Lab -->
-      P3
+      P3 Intro
     </td>
   </tr>
   <tr>
