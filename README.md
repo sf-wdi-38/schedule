@@ -77,7 +77,7 @@
       Outcomes (Neda)
     </td>
     <td> <!-- Week 11 - Friday Afternoon 2 / Weekend Lab -->
-      P3 Intro
+      <a href="https://github.com/sf-wdi-38/project-03">P3 Intro</a>
     </td>
   </tr>
   <tr>
