@@ -41,7 +41,7 @@
       Publify
     </td>
     <td> <!-- Week 11 - Friday Morning 2 -->
-      Rails JSON API/Mixing and Matching Tools (NA)
+      Architectures &amp; <a href="https://github.com/SF-WDI-LABS/con-pletionist">Rails JSON API</a> (NA)
     </td>
   </tr>
   <tr>
