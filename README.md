@@ -23,7 +23,7 @@
       <a href="https://github.com/sf-wdi-38/publify-debugging-lab">Publify Lab</a>
     </td>
     <td> <!-- Week 11 - Friday Morning 1 -->
-      Scraping (MF)
+      <a href="https://github.com/SF-WDI-LABS/web-scraping-with-nokogiri">Scraping</a> (MF)
     </td>
   </tr>
   <tr>
